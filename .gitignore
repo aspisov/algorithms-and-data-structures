@@ -1,0 +1,39 @@
+# Ignore MacOS metadata
+.DS_Store
+__MACOSX/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled output files
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.class
+
+# Ignore binary files
+*.exe
+*.dll
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore existing .gitignore file to avoid conflict
+algorithms-and-data-structures/.gitignore
+
+# Ignore Git metadata
+algorithms-and-data-structures/.git/
+algorithms-and-data-structures/.git/hooks/
+algorithms-and-data-structures/.git/refs/
+algorithms-and-data-structures/.git/logs/
+algorithms-and-data-structures/.git/index
+algorithms-and-data-structures/.git/COMMIT_EDITMSG
+algorithms-and-data-structures/.git/config
