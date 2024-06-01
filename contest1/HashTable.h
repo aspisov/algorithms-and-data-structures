@@ -1,0 +1,16 @@
+//
+// Created by Dmitry on 2/11/24.
+//
+
+#ifndef ALGORITHMS_AND_DATA_STRUCTURES_HASHTABLE_H
+#define ALGORITHMS_AND_DATA_STRUCTURES_HASHTABLE_H
+
+
+
+class HashTable {
+
+};
+
+
+
+#endif //ALGORITHMS_AND_DATA_STRUCTURES_HASHTABLE_H
